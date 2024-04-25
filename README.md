@@ -11,4 +11,4 @@ A [YouYube Walk-Through video](https://www.youtube.com/watch?v=IeqpzYJaSM0) of h
 
 ***
 
-# [Portfolio of some other things I've worked on](https://github.com/ventsiR/ventsiR/tree/final/Portfolio)
+# Check out [my full portfolio](https://github.com/ventsiR/ventsiR/tree/final/Portfolio) (flat files for FPL Dashboard to come)
